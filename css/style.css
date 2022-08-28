@@ -429,12 +429,6 @@ img {
   margin-bottom: 10px;
   width: 100%;
 }
-.footer input::-moz-placeholder {
-  color: #fff;
-}
-.footer input:-ms-input-placeholder {
-  color: #fff;
-}
 .footer input::placeholder {
   color: #fff;
 }
